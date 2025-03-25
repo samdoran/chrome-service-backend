@@ -926,20 +926,6 @@
             }
         ]
     },
-    "digitalRoadmap": {
-        "manifestLocation": "/apps/digital-roadmap/fed-mods.json",
-        "modules": [
-            {
-                "id": "digital-roadmap",
-                "module": "./RootApp",
-                "routes": [
-                    {
-                        "pathname": "/insights/digital-roadmap"
-                    }
-                ]
-            }
-        ]
-    },
     "dbaas": {
         "manifestLocation": "/apps/dbaas/fed-mods.json",
         "analytics": {
